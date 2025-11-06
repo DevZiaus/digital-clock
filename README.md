@@ -41,7 +41,7 @@ It displays the **current time** in a 12-hour format (with AM/PM) and automatica
 1. **Clone this repository**
 
     ```bash
-    git clone https://github.com/your-username/digital-clock.git
+    git clone https://github.com/DevZiaus/digital-clock.git
     ```
 
 2. **Navigate to the project folder**
