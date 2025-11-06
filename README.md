@@ -39,17 +39,16 @@ It displays the **current time** in a 12-hour format (with AM/PM) and automatica
 ## 🚀 Getting Started
 
 1. **Clone this repository**
+
     ```bash
     git clone https://github.com/your-username/digital-clock.git
     ```
 
-````
-
 2. **Navigate to the project folder**
 
-   ```bash
-   cd digital-clock
-````
+    ```bash
+    cd digital-clock
+    ```
 
 3. **Open `index.html` in your browser**
    You’ll see a live digital clock with the current date.
