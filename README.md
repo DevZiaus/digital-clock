@@ -56,9 +56,9 @@ It displays the **current time** in a 12-hour format (with AM/PM) and automatica
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Demo
 
-![Digital Clock Screenshot](https://via.placeholder.com/800x400?text=Digital+Clock+Preview)
+[See Demo](https://https://devziaus-digital-clock.netlify.app/)
 
 ---
 
